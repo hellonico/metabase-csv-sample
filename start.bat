@@ -1,1 +1,1 @@
-java -cp csvjdbc.jar:metabase.jar metabase.core
+java -cp csvjdbc.jar;metabase.jar metabase.core
