@@ -3,7 +3,8 @@
 Download jar files in this checkout:
 
 - [csvjdbc.jar](http://repository.hellonico.info/repository/hellonico/org/hellonico/csvjdbc/1.0.34_patched_01/csvjdbc-1.0.34_patched_01.jar)
-- [metabase.jar](http://repository.hellonico.info/repository/hellonico/org/hellonico/metabase/metabase-01-83d1a40581400d46e58c6c528afc030496e408d0/metabase-metabase-01-83d1a40581400d46e58c6c528afc030496e408d0.jar)
+- [metabase.jar](http://repository.hellonico.info/repository/hellonico/org/hellonico/metabase/metabase-02-83d1a40581400d46e58c6c528afc030496e408d0/metabase-metabase-02-83d1a40581400d46e58c6c528afc030496e408d0.jar)
+
 
 # START METABASE
 
